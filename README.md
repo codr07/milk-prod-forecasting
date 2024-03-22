@@ -15,3 +15,6 @@
 
 ![Python](https://img.shields.io/badge/python-yellow?logo=python)     ![Google Colab](https://img.shields.io/badge/Google--Colaboratory-white?logo=googlecolab&logoColor=yelow)   ![Jupytar Notebook](https://img.shields.io/badge/Jupyter--Notebook-blue?logo=jupyter&logoColor=orange)
 
+<hr/>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
