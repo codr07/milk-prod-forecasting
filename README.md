@@ -10,3 +10,8 @@
 
 
 ## ☝️ Click on this to view the data. 
+
+# USED PLATFORMLS AND LANGUAGES
+
+![Python](https://img.shields.io/badge/python-yellow?logo=python)     ![Google Colab](https://img.shields.io/badge/Google--Colaboratory-white?logo=googlecolab&logoColor=yelow)   ![Jupytar Notebook](https://img.shields.io/badge/Jupyter--Notebook-blue?logo=jupyter&logoColor=orange)
+
