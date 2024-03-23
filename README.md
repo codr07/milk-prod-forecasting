@@ -2,7 +2,7 @@
 
 ## 
 
-<img src="https://github.com/codr07/milk-prod-forecasting/blob/dae2f0cbf5f3c9949f66081f4185ded5248b318d/Thumbnail.png" width="100%" />
+
 
 # Data File:
 
@@ -14,6 +14,13 @@
 # USED PLATFORMLS AND LANGUAGES
 
 ![Python](https://img.shields.io/badge/python-yellow?logo=python)     ![Google Colab](https://img.shields.io/badge/Google--Colaboratory-white?logo=googlecolab&logoColor=yelow)   ![Jupytar Notebook](https://img.shields.io/badge/Jupyter--Notebook-blue?logo=jupyter&logoColor=orange)
+
+<h2>The whole process is depicted <a href="https://github.com/codr07/milk-prod-forecasting/blob/6b6d9ea2cad4024869fbb48de64b2a46663d7325/process.md"> >>HERE<< </a></h2>
+
+  ##
+##
+
+<img src="https://github.com/codr07/milk-prod-forecasting/blob/dae2f0cbf5f3c9949f66081f4185ded5248b318d/Thumbnail.png" width="100%" />
 
 <hr/>
 
